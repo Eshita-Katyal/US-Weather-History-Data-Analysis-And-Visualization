@@ -44,6 +44,7 @@ B. Comparison between actual, average, and record temperatures
 📊 Visualizations
 1. Individual histograms for all weather variables
 2. Publication-style bar and scatter plots for:
+
 A. Record highs and lows
 B. Average vs actual temperatures
 C. Record-breaking weather events
